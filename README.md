@@ -2,6 +2,11 @@
 
 This repo is used to keep track and showcase my progress on swift app development. Some of the app designs here are taken from online tutorials and are purely used for learning purposes
 
+Currently I am working on (ClimaApp), learning to optimize the UI on dark and light mode and integrating API such as firebase in the mobile app!
+
+
+## Below features some of the apps i have developed.
+
 ## QuizzlerApp
 ### Educational app that auto generates maths equations to test your ability to do quick math.
 
@@ -30,9 +35,6 @@ This repo is used to keep track and showcase my progress on swift app developmen
 #### Key takeaways
 1. Learned to use progress bars
 2. Practice linking up the buttons and getting use to swift syntax
-
-## EggTimerApp
-### Simplify egg cooking with a single click.
 
 ## XyloPhoneApp
 ### Play an instrument with an app.
