@@ -4,6 +4,7 @@ This repo is used to keep track and showcase my progress on swift app developmen
 
 ## DestiniApp
 ### User engaging story mode game.
+
 <img src="/demo/DestiniDemo.gif" width="309"/>
 
 Key takeaways
