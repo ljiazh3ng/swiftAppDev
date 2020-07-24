@@ -5,7 +5,7 @@ This repo is used to keep track and showcase my progress on swift app developmen
 ## QuizzlerApp
 ### Educational app that auto generates maths equations to test your ability to do quick math.
 
-<img src="/demo/DestiniDemo.gif" width="309"/>
+<img src="/demo/QuizzlerDemo.gif" width="309"/>
 
 #### Key takeaways
 1. Use MVC model to develop mobile apps.
