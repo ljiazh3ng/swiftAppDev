@@ -31,9 +31,6 @@ This repo is used to keep track and showcase my progress on swift app developmen
 1. Learned to use progress bars
 2. Practice linking up the buttons and getting use to swift syntax
 
-## EggTimerApp
-### Simplify egg cooking with a single click.
-
 ## XyloPhoneApp
 ### Play an instrument with an app.
 
@@ -49,6 +46,5 @@ This repo is used to keep track and showcase my progress on swift app developmen
 <img src="/demo/CalculatorDemo.gif" width="309"/>
 
 #### Key takeaways
-<br>
 - Practice setting the constraint / alignment with the UI element so it will work with phones of all sizes (responsiveness) and works well in landscape mode.
 
