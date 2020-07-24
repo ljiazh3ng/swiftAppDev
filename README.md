@@ -1,2 +1,2 @@
 # swiftAppDev
-<img src="/demo/EggMakerDemo.gif"/>
+<img src="/demo/EggMakerDemo.gif" width="409"/>
