@@ -2,6 +2,18 @@
 
 This repo is used to keep track and showcase my progress on swift app development. Some of the app designs here are taken from online tutorials and are purely used for learning purposes
 
+## QuizzlerApp
+### Educational app that auto generates maths equations to test your ability to do quick math.
+
+<img src="/demo/DestiniDemo.gif" width="309"/>
+
+#### Key takeaways
+1. Use MVC model to develop mobile apps.
+2. Build equation auto generator.
+3. Practice using segue to transition into another appview.
+4. More use of timers.
+5. Disabling UIButtons when not needed.
+
 ## DestiniApp
 ### User engaging story mode game.
 
@@ -37,5 +49,6 @@ This repo is used to keep track and showcase my progress on swift app developmen
 <img src="/demo/CalculatorDemo.gif" width="309"/>
 
 #### Key takeaways
-Practice setting the constraint / alignment withe the UI element so it work with phones of all sizes (responsiveness) and works well in landscape mode.
+<br>
+- Practice setting the constraint / alignment with the UI element so it will work with phones of all sizes (responsiveness) and works well in landscape mode.
 
