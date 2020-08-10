@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a3275be3-86dc-4706-82d0-26b77a55ccd0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Clima-iOS13/Clima/Assets.xcassets/MyWeatherColor.colorset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GetRichApp/GetRichApp/Assets.xcassets/AppIcon.appiconset/Icon-1024.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GetRichApp/GetRichApp/Assets.xcassets/AppIcon.appiconset/Icon-20@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GetRichApp/GetRichApp/Assets.xcassets/AppIcon.appiconset/Icon-20@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GetRichApp/GetRichApp/Assets.xcassets/AppIcon.appiconset/Icon-29@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GetRichApp/GetRichApp/Assets.xcassets/AppIcon.appiconset/Icon-29@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GetRichApp/GetRichApp/Assets.xcassets/AppIcon.appiconset/Icon-40@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GetRichApp/GetRichApp/Assets.xcassets/AppIcon.appiconset/Icon-40@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GetRichApp/GetRichApp/Assets.xcassets/AppIcon.appiconset/Icon-60@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GetRichApp/GetRichApp/Assets.xcassets/AppIcon.appiconset/Icon-60@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GetRichApp/GetRichApp/Assets.xcassets/diamond.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GetRichApp/GetRichApp/Assets.xcassets/diamond.imageset/diamond@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quizzler-iOS13/Quizzler-iOS13/Controller/SecondaryViewController.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quizzler-iOS13/Quizzler-iOS13/Controller/ViewController.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quizzler-iOS13/Quizzler-iOS13/Controller/ViewController.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quizzler-iOS13/Quizzler-iOS13/Model/QuestionGenerator.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quizzler-iOS13/Quizzler-iOS13/Model/QuizModel.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quizzler-iOS13/Quizzler-iOS13/View/Base.lproj/Main.storyboard" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculator-Layout-iOS13/Calculator Layout iOS13/Main.storyboard" beforeDir="false" afterPath="$PROJECT_DIR$/Calculator-Layout-iOS13/Calculator Layout iOS13/Main.storyboard" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clima-iOS13/Clima.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/Clima-iOS13/Clima.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clima-iOS13/Clima/Assets.xcassets/background.imageset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/Clima-iOS13/Clima/Assets.xcassets/MyBackground.imageset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clima-iOS13/Clima/Assets.xcassets/background.imageset/dark_background.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Clima-iOS13/Clima/Assets.xcassets/MyBackground.imageset/dark_background.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clima-iOS13/Clima/Assets.xcassets/background.imageset/light_background-1.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Clima-iOS13/Clima/Assets.xcassets/MyBackground.imageset/light_background-1.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clima-iOS13/Clima/Assets.xcassets/background.imageset/light_background.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Clima-iOS13/Clima/Assets.xcassets/MyBackground.imageset/light_background.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clima-iOS13/Clima/Controller/WeatherViewController.swift" beforeDir="false" afterPath="$PROJECT_DIR$/Clima-iOS13/Clima/Controller/WeatherViewController.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clima-iOS13/Clima/View/Base.lproj/Main.storyboard" beforeDir="false" afterPath="$PROJECT_DIR$/Clima-iOS13/Clima/View/Base.lproj/Main.storyboard" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clima-iOS13/Clima/dark_background.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clima-iOS13/Clima/light_background.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Destini-iOS13/Destini-iOS13.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/Destini-iOS13/Destini-iOS13.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Destini-iOS13/Destini-iOS13/Controller/ViewController.swift" beforeDir="false" afterPath="$PROJECT_DIR$/Destini-iOS13/Destini-iOS13/Controller/ViewController.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Destini-iOS13/Destini-iOS13/Model/Story.swift" beforeDir="false" afterPath="$PROJECT_DIR$/Destini-iOS13/Destini-iOS13/Model/Story.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Destini-iOS13/Destini-iOS13/Model/StoryBrain.swift" beforeDir="false" afterPath="$PROJECT_DIR$/Destini-iOS13/Destini-iOS13/Model/StoryBrain.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Destini-iOS13/Destini-iOS13/View/Base.lproj/Main.storyboard" beforeDir="false" afterPath="$PROJECT_DIR$/Destini-iOS13/Destini-iOS13/View/Base.lproj/Main.storyboard" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EggTimer-iOS13/EggTimer/AppDelegate.swift" beforeDir="false" afterPath="$PROJECT_DIR$/EggTimer-iOS13/EggTimer/AppDelegate.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EggTimer-iOS13/EggTimer/Base.lproj/Main.storyboard" beforeDir="false" afterPath="$PROJECT_DIR$/EggTimer-iOS13/EggTimer/Base.lproj/Main.storyboard" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EggTimer-iOS13/EggTimer/ViewController.swift" beforeDir="false" afterPath="$PROJECT_DIR$/EggTimer-iOS13/EggTimer/ViewController.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GetRichApp/GetRichApp.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/GetRichApp/GetRichApp.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GetRichApp/GetRichApp/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/GetRichApp/GetRichApp/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GetRichApp/GetRichApp/Base.lproj/Main.storyboard" beforeDir="false" afterPath="$PROJECT_DIR$/GetRichApp/GetRichApp/Base.lproj/Main.storyboard" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quizzler-iOS13/Quizzler-iOS13.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/Quizzler-iOS13/Quizzler-iOS13.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quizzler-iOS13/Quizzler-iOS13/Base.lproj/Main.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quizzler-iOS13/Quizzler-iOS13/ViewController.swift" beforeDir="false" afterPath="$PROJECT_DIR$/Quizzler-iOS13/Quizzler-iOS13/ViewController.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quizzler-iOS13/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Quizzler-iOS13/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>g</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/README.adoc" />
+        <option value="$PROJECT_DIR$/README.md" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="846" />
+    <option name="width" value="834" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="swiftAppDev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="swiftAppDev" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="swiftAppDev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="swiftAppDev" type="462c0819:PsiDirectoryNode" />
+              <item name="Calculator-Layout-iOS13" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="swiftAppDev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="swiftAppDev" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="swiftAppDev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1595604370946" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.folding" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a3275be3-86dc-4706-82d0-26b77a55ccd0" name="Default Changelist" comment="" />
+      <created>1595570282560</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595570282560</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1052" y="0" width="628" height="1050" extended-state="0" />
+    <layout>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Designer" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.28668943" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Log Analyzer" order="0" />
+      <window_info anchor="bottom" id="Anonymous Apex" order="1" />
+      <window_info anchor="bottom" id="Version Control" order="2" />
+      <window_info anchor="bottom" id="SOQL Query" order="3" />
+      <window_info anchor="bottom" id="Terminal" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="6" />
+      <window_info anchor="bottom" id="Message" order="7" />
+      <window_info anchor="bottom" id="Find" order="8" />
+      <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="12" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Theme Preview" order="1" />
+      <window_info anchor="right" id="Maven" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+      <window_info active="true" anchor="right" x="21" y="389" width="1638" height="272" id="Run" order="8" visible="true" weight="0.2771673" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.adoc">
+      <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="75">
+            <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="264">
+            <caret line="19" column="2" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Python 3.7 interpreter library</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

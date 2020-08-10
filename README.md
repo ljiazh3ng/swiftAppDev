@@ -17,6 +17,7 @@ Currently I am working on (ClimaApp), learning to optimize the UI on dark and li
 2. Build equation auto generator.
 3. Practice using segue to transition into another appview.
 4. More use of timers.
+rr
 5. Disabling UIButtons when not needed.
 
 ## DestiniApp

@@ -3,8 +3,10 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Calculator-Layout-iOS13" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Clima-iOS13" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Destini-iOS13" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/EggTimer-iOS13" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GetRichApp" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Quizzler-iOS13" vcs="Git" />
   </component>
 </project>
